@@ -8,6 +8,7 @@ Basic Architecure Digram for the seqenece of actions and workflow for the projec
 <video src='assets/demo_cob.mp4'>
  -->
 
+
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com)
 [![Gemini AI](https://img.shields.io/badge/Gemini-2.0--flash--exp-orange.svg)](https://ai.google.dev)
